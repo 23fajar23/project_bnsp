@@ -1,9 +1,6 @@
 
 Name : Mochammad Fajar Darussalam
 
-NIM  : 1941720004
-
-
 
 Step :
 1. first clone this project to your device
@@ -13,5 +10,7 @@ Step :
 
 Link File PackageCache.zip :
 https://drive.google.com/drive/folders/1d1Ub6zWzaKSRBIlwQZkmW-D6HOU_ySBg?usp=sharing
+
+#Note : Sorry, I can't upload the file on GitHub because the file is too big
 
 #Politeknik Negeri Malang
